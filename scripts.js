@@ -1,4 +1,4 @@
-const api = '78930d23a53e12103acefb3015cac163';
+const api = 'insert open weather key';
 
 const iconImg = document.getElementById('weather-icon');
 const loc = document.querySelector('#location');
